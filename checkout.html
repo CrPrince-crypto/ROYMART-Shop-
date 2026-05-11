@@ -1,0 +1,46 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Checkout — ROYMART</title><link rel="stylesheet" href="./assets/css/style.css" /><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"></head><body>
+<header class="nav"><div class="container nav-inner"><a class="brand" href="./index.html"><span class="brand-mark"></span><span>ROYMART</span></a><nav class="nav-links"><a href="./index.html">Home</a><a href="./shop.html">Shop</a><a href="./wishlist.html">Wishlist</a><a href="./cart.html">Cart</a><a href="./checkout.html">Checkout</a></nav><div class="nav-actions"><button class="icon-btn" data-login-open>☺</button><button class="icon-btn" data-open-cart>🛍 <span data-cart-count style="margin-left:4px;font-size:.8rem"></span></button></div></div></header>
+<main class="container section">
+  <div class="section-head"><div><h1 class="section-title">Amazon-style checkout</h1><p class="section-sub">Address first, then payment, then review — all inside a premium smooth flow.</p></div></div>
+  <div class="checkout">
+    <div class="panel">
+      <div class="steps"><button class="step active" data-step="1">1. Address</button><button class="step" data-step="2">2. Payment</button><button class="step" data-step="3">3. Review</button></div>
+      <div data-step-panel="1">
+        <form class="form-grid" data-address-form>
+          <input class="input full" name="name" placeholder="Full name" />
+          <input class="input" name="phone" placeholder="Mobile number" />
+          <input class="input" name="pincode" placeholder="PIN code" />
+          <input class="input full" name="house" placeholder="House no / Building / Flat" />
+          <input class="input full" name="street" placeholder="Area / Street / Landmark" />
+          <input class="input" name="city" placeholder="City" />
+          <input class="input" name="state" placeholder="State" />
+        </form>
+        <div style="display:flex;gap:12px;margin-top:14px;flex-wrap:wrap"><button class="btn primary" data-step="2">Continue to payment</button></div>
+      </div>
+      <div data-step-panel="2" style="display:none">
+        <div class="pay-grid">
+          <button class="pay active" data-payment="cod">Cash on Delivery</button>
+          <button class="pay" data-payment="upi">UPI</button>
+          <button class="pay" data-payment="card">Credit Card</button>
+          <button class="pay" data-payment="card">Debit Card</button>
+          <button class="pay" data-payment="emi">EMI</button>
+          <button class="pay" data-payment="netbanking">Net Banking</button>
+        </div>
+        <div data-upi-fields style="display:none;margin-top:14px"><input class="input" placeholder="UPI ID" /></div>
+        <div data-card-fields style="display:none;margin-top:14px"><div class="form-grid"><input class="input full" placeholder="Card number" /><input class="input" placeholder="Expiry" /><input class="input" placeholder="CVV" /><input class="input full" placeholder="Name on card" /></div></div>
+        <div style="display:flex;gap:12px;margin-top:14px;flex-wrap:wrap"><button class="btn ghost" data-step="1" type="button">Back</button><button class="btn primary" data-step="3" type="button">Review order</button></div>
+      </div>
+      <div data-step-panel="3" style="display:none">
+        <div class="panel" style="padding:16px;margin-bottom:14px"><strong>Delivery estimate</strong><p style="color:var(--muted);margin-top:8px">2–5 business days depending on city.</p></div>
+        <button class="btn primary" data-place-order type="button">Place order</button><button class="btn ghost" data-step="2" type="button" style="margin-left:10px">Back</button>
+      </div>
+    </div>
+    <div class="panel"><h3>Order summary</h3><div data-checkout-summary></div></div>
+  </div>
+</main>
+<div class="modal" data-success-modal><div class="modal-box" style="max-width:560px"><div class="modal-head"><strong>Order success</strong><button class="icon-btn" data-modal-close>×</button></div><div class="modal-body" data-success-body></div></div></div>
+<div class="drawer" data-cart-drawer><div class="drawer-head"><strong>Cart</strong><button class="icon-btn" data-close="[data-cart-drawer]">×</button></div><div class="drawer-body" data-cart-list></div><div class="drawer-foot"><div class="summary-item"><span>Subtotal</span><strong data-cart-subtotal>₹0</strong></div><div class="summary-item"><span>Delivery</span><strong data-cart-delivery>₹0</strong></div><div class="total"><span>Total</span><span data-cart-total>₹0</span></div><a class="btn primary" style="width:100%;margin-top:14px" href="./checkout.html">Go to checkout</a></div></div>
+<div class="modal" data-login-modal><div class="modal-box" style="max-width:560px"><div class="modal-head"><strong>Login / Signup</strong><button class="icon-btn" data-modal-close>×</button></div><div class="modal-body"><form class="panel" data-login-form><div class="form-grid"><input class="input full" name="name" placeholder="Full name" /><input class="input full" name="email" placeholder="Email address" /><input class="input full" type="password" name="password" placeholder="Password" /></div><button class="btn primary" style="margin-top:14px">Continue</button></form></div></div></div>
+<div class="toasts"></div>
+<script src="./assets/js/data.js"></script><script src="./assets/js/app.js"></script>
+</body></html>

@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "p1",
+    "name": "Skyline Runner 1",
+    "price": 3299,
+    "category": "Accessories",
+    "badge": "Best Seller",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p2",
+    "name": "Orbit Bag 2",
+    "price": 1799,
+    "category": "Hoodies",
+    "badge": "Luxury",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p3",
+    "name": "Orbit Bag 3",
+    "price": 3299,
+    "category": "Hoodies",
+    "badge": "Hot",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p4",
+    "name": "Oversized Arc Tee 4",
+    "price": 2999,
+    "category": "Jackets",
+    "badge": "New Drop",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p5",
+    "name": "Minimal Dial Watch 5",
+    "price": 3999,
+    "category": "Techwear",
+    "badge": "New Drop",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p6",
+    "name": "Alpha Cap 6",
+    "price": 4499,
+    "category": "Jackets",
+    "badge": "Best Seller",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p7",
+    "name": "Ghost Runner Sneakers 7",
+    "price": 1499,
+    "category": "T-Shirts",
+    "badge": "Best Seller",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p8",
+    "name": "Skyline Runner 8",
+    "price": 3999,
+    "category": "Sneakers",
+    "badge": "Hot",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p9",
+    "name": "Oversized Arc Tee 9",
+    "price": 3999,
+    "category": "T-Shirts",
+    "badge": "Hot",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p10",
+    "name": "Alpha Cap 10",
+    "price": 2499,
+    "category": "Jackets",
+    "badge": "Trending",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p11",
+    "name": "Skyline Runner 11",
+    "price": 7999,
+    "category": "Sneakers",
+    "badge": "Limited",
+    "rating": 5.0,
+    "image": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p12",
+    "name": "Zero Gravity Jacket 12",
+    "price": 1799,
+    "category": "T-Shirts",
+    "badge": "Trending",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p13",
+    "name": "Minimal Dial Watch 13",
+    "price": 3299,
+    "category": "Techwear",
+    "badge": "Best Seller",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p14",
+    "name": "Zero Gravity Jacket 14",
+    "price": 2999,
+    "category": "Sneakers",
+    "badge": "Hot",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p15",
+    "name": "Alpha Cap 15",
+    "price": 5999,
+    "category": "Techwear",
+    "badge": "Best Seller",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p16",
+    "name": "Carbon Bomber 16",
+    "price": 2499,
+    "category": "Sneakers",
+    "badge": "Hot",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p17",
+    "name": "Carbon Bomber 17",
+    "price": 1499,
+    "category": "Watches",
+    "badge": "Best Seller",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p18",
+    "name": "Oversized Arc Tee 18",
+    "price": 1999,
+    "category": "Accessories",
+    "badge": "Limited",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p19",
+    "name": "Neon Tech Hoodie 19",
+    "price": 1799,
+    "category": "Techwear",
+    "badge": "Hot",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p20",
+    "name": "Ghost Runner Sneakers 20",
+    "price": 3299,
+    "category": "Hoodies",
+    "badge": "Best Seller",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p21",
+    "name": "Carbon Bomber 21",
+    "price": 1999,
+    "category": "Hoodies",
+    "badge": "Luxury",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p22",
+    "name": "Oversized Arc Tee 22",
+    "price": 2499,
+    "category": "T-Shirts",
+    "badge": "Luxury",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p23",
+    "name": "Ghost Runner Sneakers 23",
+    "price": 1799,
+    "category": "Accessories",
+    "badge": "Hot",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p24",
+    "name": "Alpha Cap 24",
+    "price": 3499,
+    "category": "Accessories",
+    "badge": "Best Seller",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p25",
+    "name": "Minimal Dial Watch 25",
+    "price": 5999,
+    "category": "Techwear",
+    "badge": "Best Seller",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p26",
+    "name": "Alpha Cap 26",
+    "price": 7999,
+    "category": "Watches",
+    "badge": "Limited",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p27",
+    "name": "Carbon Bomber 27",
+    "price": 3999,
+    "category": "Hoodies",
+    "badge": "New Drop",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p28",
+    "name": "Midnight Cargo 28",
+    "price": 1999,
+    "category": "Watches",
+    "badge": "Hot",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p29",
+    "name": "Neon Tech Hoodie 29",
+    "price": 4499,
+    "category": "Hoodies",
+    "badge": "New Drop",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p30",
+    "name": "Neon Tech Hoodie 30",
+    "price": 3499,
+    "category": "Accessories",
+    "badge": "Hot",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p31",
+    "name": "Alpha Cap 31",
+    "price": 7999,
+    "category": "Techwear",
+    "badge": "Trending",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p32",
+    "name": "Minimal Dial Watch 32",
+    "price": 3299,
+    "category": "Hoodies",
+    "badge": "New Drop",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p33",
+    "name": "Midnight Cargo 33",
+    "price": 2499,
+    "category": "Sneakers",
+    "badge": "Best Seller",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p34",
+    "name": "Neon Tech Hoodie 34",
+    "price": 3299,
+    "category": "Techwear",
+    "badge": "Trending",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p35",
+    "name": "Zero Gravity Jacket 35",
+    "price": 2499,
+    "category": "Hoodies",
+    "badge": "Limited",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p36",
+    "name": "Orbit Bag 36",
+    "price": 2499,
+    "category": "Watches",
+    "badge": "Trending",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p37",
+    "name": "Orbit Bag 37",
+    "price": 3999,
+    "category": "Hoodies",
+    "badge": "New Drop",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p38",
+    "name": "Orbit Bag 38",
+    "price": 1499,
+    "category": "Accessories",
+    "badge": "Best Seller",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p39",
+    "name": "Carbon Bomber 39",
+    "price": 2999,
+    "category": "Watches",
+    "badge": "Limited",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p40",
+    "name": "Neon Tech Hoodie 40",
+    "price": 2499,
+    "category": "Techwear",
+    "badge": "Hot",
+    "rating": 5.0,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p41",
+    "name": "Carbon Bomber 41",
+    "price": 7999,
+    "category": "Hoodies",
+    "badge": "New Drop",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p42",
+    "name": "Ghost Runner Sneakers 42",
+    "price": 1999,
+    "category": "Techwear",
+    "badge": "Trending",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p43",
+    "name": "Minimal Dial Watch 43",
+    "price": 4499,
+    "category": "Watches",
+    "badge": "New Drop",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p44",
+    "name": "Ghost Runner Sneakers 44",
+    "price": 2999,
+    "category": "Techwear",
+    "badge": "Limited",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p45",
+    "name": "Midnight Cargo 45",
+    "price": 7999,
+    "category": "Accessories",
+    "badge": "Limited",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p46",
+    "name": "Minimal Dial Watch 46",
+    "price": 4499,
+    "category": "Jackets",
+    "badge": "Hot",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p47",
+    "name": "Oversized Arc Tee 47",
+    "price": 1799,
+    "category": "Watches",
+    "badge": "Luxury",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p48",
+    "name": "Zero Gravity Jacket 48",
+    "price": 5999,
+    "category": "Accessories",
+    "badge": "Luxury",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p49",
+    "name": "Orbit Bag 49",
+    "price": 7999,
+    "category": "Accessories",
+    "badge": "Hot",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p50",
+    "name": "Ghost Runner Sneakers 50",
+    "price": 1799,
+    "category": "Jackets",
+    "badge": "New Drop",
+    "rating": 5.0,
+    "image": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p51",
+    "name": "Skyline Runner 51",
+    "price": 2499,
+    "category": "Watches",
+    "badge": "Luxury",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p52",
+    "name": "Neon Tech Hoodie 52",
+    "price": 3999,
+    "category": "Accessories",
+    "badge": "New Drop",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p53",
+    "name": "Neon Tech Hoodie 53",
+    "price": 3499,
+    "category": "Accessories",
+    "badge": "Trending",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p54",
+    "name": "Alpha Cap 54",
+    "price": 3999,
+    "category": "Accessories",
+    "badge": "New Drop",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p55",
+    "name": "Orbit Bag 55",
+    "price": 5999,
+    "category": "Watches",
+    "badge": "Trending",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p56",
+    "name": "Midnight Cargo 56",
+    "price": 7999,
+    "category": "Watches",
+    "badge": "Luxury",
+    "rating": 5.0,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p57",
+    "name": "Zero Gravity Jacket 57",
+    "price": 1999,
+    "category": "Hoodies",
+    "badge": "Luxury",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p58",
+    "name": "Oversized Arc Tee 58",
+    "price": 3299,
+    "category": "T-Shirts",
+    "badge": "New Drop",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p59",
+    "name": "Neon Tech Hoodie 59",
+    "price": 7999,
+    "category": "T-Shirts",
+    "badge": "Hot",
+    "rating": 5.0,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  },
+  {
+    "id": "p60",
+    "name": "Ghost Runner Sneakers 60",
+    "price": 3999,
+    "category": "T-Shirts",
+    "badge": "Luxury",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=1400&auto=format&fit=crop",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Premium futuristic ecommerce product with smooth visuals and luxury feel."
+  }
+]
